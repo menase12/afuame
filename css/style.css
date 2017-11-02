@@ -1,0 +1,8 @@
+.backhand
+{
+	background:url(../img/background.jpg);
+	background-attachment:fixed;
+	background-size:100%;
+	filter:blur(15px);
+	-webkit-filter:blur(5px);
+}

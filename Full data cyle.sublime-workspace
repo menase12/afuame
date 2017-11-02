@@ -1,0 +1,339 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "brow",
+		"selected_items":
+		[
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/aoa4eva/Desktop/afuame"
+	],
+	"file_history":
+	[
+		"/D/NewLaravelLessons/LaravelCRUD/routes/web.php",
+		"/C/Users/aoa4eva/Desktop/AztraTech/index.html",
+		"/D/GitProjects/GridShowcase/rows.html",
+		"/D/GitProjects/GridShowcase/samplefrontpage.html",
+		"/D/GitProjects/GridShowcase/css/style.css",
+		"/D/LaravelLessons/Lesson09/routes/web.php",
+		"/D/LaravelLessons/DataCycle/routes/web.php",
+		"/D/LaravelLessons/Lesson10/routes/web.php",
+		"/D/GitProjects/SampleBootstrap/index.html",
+		"/D/GitProjects/GridShowcase/index.html",
+		"/D/GitProjects/GridShowcase/samplepage.html",
+		"/C/Users/aoa4eva/Desktop/AztraTech/css/style.css",
+		"/D/GitProjects/SampleBootstrap/css/style.css",
+		"/C/Users/aoa4eva/Desktop/AztraTech/index.php",
+		"/C/xampp/htdocs/test/css/style.css",
+		"/C/xampp/htdocs/test/index.php",
+		"/C/xampp/htdocs/test/dologin.php",
+		"/C/xampp/htdocs/test/openlogin.php",
+		"/C/xampp/htdocs/test/.htaccess",
+		"/C/xampp/htdocs/test/login.php",
+		"/C/Users/aoa4eva/Desktop/AztraTech/style.css",
+		"/C/Users/aoa4eva/Lesson26/resources/lang/en/passwords.php",
+		"/C/Users/aoa4eva/Desktop/movieindex.blade.php",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson10.md",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson08.md",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/ReadMe.md",
+		"/C/Users/aoa4eva/Desktop/Cloudinary Instructions",
+		"/D/LaravelLessons/cloudinarytest/app/Photo.php",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson17.md",
+		"/D/LaravelLessons/bladetemplates/routes/web.php",
+		"/D/LaravelLessons/bladetemplates/resources/views/layouts/base.blade.php",
+		"/D/LaravelLessons/bladetemplates/resources/views/three.blade.php",
+		"/D/LaravelLessons/bladetemplates/resources/views/two.blade.php",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson13.md",
+		"/D/LaravelLessons/bladetemplates/resources/views/welcome.blade.php",
+		"/D/LaravelLessons/bladetemplates/resources/views/layouts/two.blade.php",
+		"/D/LaravelLessons/ManyToMany/config/database.php",
+		"/D/LaravelLessons/ManyToMany/.env",
+		"/D/LaravelLessons/ManyToMany/resources/views/movieindex.blade.php",
+		"/D/LaravelLessons/ManyToMany/routes/web.php",
+		"/D/LaravelLessons/ManyToMany/config/Heroku Deployment",
+		"/D/LaravelLessons/ManyToMany/config/app.php",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson16.md",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson18.md",
+		"/D/LaravelLessons/email/routes/web.php",
+		"/D/LaravelLessons/email/resources/views/errors/404.blade.php",
+		"/D/LaravelLessons/email/resources/views/emailtemplate.blade.php",
+		"/D/LaravelLessons/email/resources/errors/404.blade.php",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson15.md",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson01.md",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson00.md",
+		"/D/LaravelLessons/email/.env",
+		"/D/LaravelLessons/Lesson26/config/database.php",
+		"/D/LaravelLessons/Lesson26/.env",
+		"/D/LaravelLessons/Lesson26/app/Providers/AppServiceProvider.php",
+		"/D/LaravelLessons/Lesson26/database/seeds/UserTableSeeder.php",
+		"/D/LaravelLessons/Lesson26/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson20.mdown",
+		"/C/Users/aoa4eva/Documents/unofficialguides/IntroToSpringBoot/Lesson02.md",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson15.mdown",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson04.md",
+		"/C/Users/aoa4eva/Documents/unofficialguides/IntroToSpringBoot/Lesson00.md",
+		"/C/Users/aoa4eva/variablelist.tx",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson12.md",
+		"/D/LaravelLessons/OneToOne/app/Employee.php",
+		"/D/LaravelLessons/OneToOne/app/Laptop.php",
+		"/D/LaravelLessons/OneToOne/routes/web.php",
+		"/D/LaravelLessons/OneToOne/resources/views/index.blade.php",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson11.md",
+		"/D/LaravelLessons/OneToOne/app/User.php",
+		"/D/LaravelLessons/OneToOne/database/migrations/2017_10_14_160237_create_laptops_table.php",
+		"/D/LaravelLessons/OneToOne/database/migrations/2017_10_14_160122_create_employees_table.php",
+		"/D/LaravelLessons/OneToOne/resources/views/welcome.blade.php",
+		"/D/LaravelLessons/OneToOne/app/Providers/AppServiceProvider.php",
+		"/D/LaravelLessons/OneToOne/config/database.php",
+		"/D/LaravelLessons/OneToOne/.env",
+		"/D/LaravelLessons/LoopBlade/resources/views/jobs/index.blade.php",
+		"/D/LaravelLessons/OneToMany/resources/views/directorindex.blade.php",
+		"/D/LaravelLessons/OneToMany/app/Movie.php",
+		"/D/LaravelLessons/OneToMany/routes/web.php",
+		"/D/LaravelLessons/OneToMany/.env",
+		"/D/LaravelLessons/OneToMany/config/database.php",
+		"/D/LaravelLessons/OneToMany/app/Providers/AppServiceProvider.php",
+		"/D/LaravelLessons/OneToMany/app/Director.php",
+		"/D/LaravelLessons/OneToMany/database/migrations/2017_10_14_133018_create_directors_table.php",
+		"/D/LaravelLessons/OneToMany/database/migrations/2017_10_14_133415_create_movies_table.php",
+		"/D/LaravelLessons/ManyToMany/app/Http/Controllers/MovieController.php",
+		"/D/LaravelLessons/ManyToMany/app/Actor.php",
+		"/D/LaravelLessons/ManyToMany/app/Movie.php",
+		"/D/LaravelLessons/ManyToMany/app/Http/Controllers/ActorController.php",
+		"/D/LaravelLessons/LoopBlade/app/Http/Controllers/JobController.php",
+		"/D/LaravelLessons/ManyToMany/resources/views/addtomovies.blade.php",
+		"/D/LaravelLessons/ManyToMany/resources/views/actors/create.blade.php",
+		"/D/LaravelLessons/ManyToMany/database/migrations/2017_10_13_185536_actor_movie.php",
+		"/D/LaravelLessons/ManyToMany/database/migrations/2017_10_13_185131_actor_movie.php",
+		"/D/LaravelLessons/ManyToMany/database/migrations/2017_10_13_182931_movie_actors.php",
+		"/D/LaravelLessons/ManyToMany/database/migrations/2017_10_13_182430_movie_actors.php",
+		"/D/LaravelLessons/ManyToMany/database/migrations/2017_10_13_145841_create_actors_table.php",
+		"/D/LaravelLessons/ManyToMany/resources/views/movies/create.blade.php",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson06.md",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson09.md",
+		"/D/LaravelLessons/ManyToMany/app/Providers/AppServiceProvider.php",
+		"/D/LaravelLessons/ManyToMany/database/migrations/2017_10_13_145428_create_movies_table.php",
+		"/D/LaravelLessons/ManyToMany/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson14.md",
+		"/D/LaravelLessons/LoopBlade/resources/views/jobs/update.blade.php",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson07.md",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson08.mdown",
+		"/D/LaravelLessons/LoopBlade/database/migrations/2017_10_12_205244_create_jobs_table.php",
+		"/D/LaravelLessons/LoopBlade/resources/views/jobs/create.blade.php",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/template.md",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson09.mdown",
+		"/C/Users/aoa4eva/Documents/unofficialguides/Laravel/Lesson05.md",
+		"/D/LaravelLessons/LoopBlade/app/Job.php",
+		"/D/LaravelLessons/Lesson10/database/migrations/2017_09_20_041503_create_courses_table.php",
+		"/D/LaravelLessons/LoopBlade/database/migrations/2017_10_12_182110_create_jobs_table.php",
+		"/D/LaravelLessons/Lesson10/app/Http/Controllers/Controller.php",
+		"/D/LaravelLessons/Lesson10/resources/views/welcome.blade.php",
+		"/D/LaravelLessons/Lesson10/resources/views/confirm.blade.php",
+		"/D/LaravelLessons/LoopBlade/routes/web.php",
+		"/D/LaravelLessons/LoopBlade/.env",
+		"/D/LaravelLessons/LoopBlade/config/database.php",
+		"/D/LaravelLessons/LoopBlade/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/LaravelLessons/LoopBlade/database/migrations/2017_10_12_171350_create_jobs_table.php",
+		"/D/LaravelLessons/LoopBlade/app/Providers/AppServiceProvider.php",
+		"/D/LaravelLessons/Lesson06/app/Http/Controllers/JobController.php",
+		"/D/LaravelLessons/Lesson06/database/migrations/2017_09_21_192750_create_jobs_table.php",
+		"/D/LaravelLessons/Lesson06/config/app.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"php",
+			"mac",
+			"job",
+			"edit",
+			"resource",
+			"update",
+			"php artisan",
+			"store",
+			"mov",
+			"Job",
+			"job",
+			"movie",
+			"movies",
+			"movie",
+			"Job",
+			"job",
+			"jobs",
+			"Jobs",
+			"jobs",
+			"255",
+			"job",
+			"jobs",
+			"endif",
+			"method",
+			"folder",
+			"nullable",
+			"**",
+			"store",
+			"persval",
+			"th:field=",
+			"homestead",
+			"padding",
+			"masthead",
+			"background",
+			"fixed"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Full data cyle.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 138.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
