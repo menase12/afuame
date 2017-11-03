@@ -22,30 +22,62 @@
   color:white;
  }
 
+ul{
+  color:white!important;
+  font-family: 'Dosis', sans-serif!important;
+  font-size:1.5em!important;
 
-ul,h1{
-  color:white;
+}
 
+
+.h1,h1
+{
+  color:white!important;
+  font-family: 'Dosis', sans-serif!important;
+  font-size:5em!important;  
+}
+
+.h3,h3
+{
+  color:white!important;
+  font-family: 'Dosis', sans-serif!important;
+  font-size:3em!important;  
 }
 
 body{color:green;}
 
 .navbar a
 {
-  color:brown;
-  font-size:3em;
-}
-
-.navbar a:hover
-{
-  background-color:purple;
   color:white;
+  font-size:1em;
+  font-family: 'Dosis', sans-serif;
 }
 
 .navbar-header div
 {
-  font-size:3em;
+  font-size:2em;
   color:white;
   font-family: 'Homemade Apple', cursive;
 }
 
+.navbar-transparent
+{
+  background-color:black;
+  opacity:0.6;
+}
+
+.front-page-section
+{
+  margin-top:20%;
+}
+
+a
+{
+  color:white!important;
+
+}
+
+a:hover
+{
+  color:purple!important;
+}
